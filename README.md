@@ -11,4 +11,3 @@ install dev dependencies
 Run The app
 
 ### `npm start`
-
